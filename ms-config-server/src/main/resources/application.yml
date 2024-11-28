@@ -8,7 +8,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/haelMC/nada.git
+          uri: https://github.com/23Vvrangler/PROYECTO-DAAA.git
           #username:
           #password:
           search-paths: config-data
